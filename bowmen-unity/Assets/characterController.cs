@@ -4,6 +4,10 @@ using UnityEngine;
 
 public class characterController : MonoBehaviour
 {
+
+    public FixedJoystick LeftJoystick;
+    public
+
     // Start is called before the first frame update
     void Start()
     {
